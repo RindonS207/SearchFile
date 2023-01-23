@@ -1,0 +1,21 @@
+D:\c#'s exe\seachFiles\seachFiles\bin\Debug\seachFiles.exe.config
+D:\c#'s exe\seachFiles\seachFiles\bin\Debug\seachFiles.exe
+D:\c#'s exe\seachFiles\seachFiles\bin\Debug\seachFiles.pdb
+D:\c#'s exe\seachFiles\seachFiles\obj\Debug\seachFiles.csprojAssemblyReference.cache
+D:\c#'s exe\seachFiles\seachFiles\obj\Debug\seachFiles.Form1.resources
+D:\c#'s exe\seachFiles\seachFiles\obj\Debug\seachFiles.Properties.Resources.resources
+D:\c#'s exe\seachFiles\seachFiles\obj\Debug\seachFiles.csproj.GenerateResource.cache
+D:\c#'s exe\seachFiles\seachFiles\obj\Debug\seachFiles.csproj.CoreCompileInputs.cache
+D:\c#'s exe\seachFiles\seachFiles\obj\Debug\seachFiles.exe
+D:\c#'s exe\seachFiles\seachFiles\obj\Debug\seachFiles.pdb
+E:\_c#\normalProject\seachFiles\seachFiles\bin\Debug\seachFiles.exe.config
+E:\_c#\normalProject\seachFiles\seachFiles\bin\Debug\seachFiles.exe
+E:\_c#\normalProject\seachFiles\seachFiles\bin\Debug\seachFiles.pdb
+E:\_c#\normalProject\seachFiles\seachFiles\obj\Debug\seachFiles.csproj.AssemblyReference.cache
+E:\_c#\normalProject\seachFiles\seachFiles\obj\Debug\seachFiles.csproj.SuggestedBindingRedirects.cache
+E:\_c#\normalProject\seachFiles\seachFiles\obj\Debug\seachFiles.Form1.resources
+E:\_c#\normalProject\seachFiles\seachFiles\obj\Debug\seachFiles.Properties.Resources.resources
+E:\_c#\normalProject\seachFiles\seachFiles\obj\Debug\seachFiles.csproj.GenerateResource.cache
+E:\_c#\normalProject\seachFiles\seachFiles\obj\Debug\seachFiles.csproj.CoreCompileInputs.cache
+E:\_c#\normalProject\seachFiles\seachFiles\obj\Debug\seachFiles.exe
+E:\_c#\normalProject\seachFiles\seachFiles\obj\Debug\seachFiles.pdb
